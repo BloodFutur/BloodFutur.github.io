@@ -1,0 +1,3 @@
+[submodule "sokoban"]
+	path = sokoban
+	url = https://git.etud.insa-toulouse.fr/nbillard/sokoban.git
