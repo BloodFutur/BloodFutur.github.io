@@ -1,3 +1,6 @@
 [submodule "sokoban"]
 	path = sokoban
 	url = https://git.etud.insa-toulouse.fr/nbillard/sokoban.git
+[submodule "valentine"]
+	path = valentine
+	url = git@github.com:BloodFutur/valentine.git
